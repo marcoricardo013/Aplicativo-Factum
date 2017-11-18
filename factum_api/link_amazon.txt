@@ -1,0 +1,6 @@
+http://sample-env.79tknvcwhb.us-west-2.elasticbeanstalk.com/
+
+http://sample-env.79tknvcwhb.us-west-2.elasticbeanstalk.com/conexaoandroid2.php
+
+Mysql:
+http://sample-env.79tknvcwhb.us-west-2.elasticbeanstalk.com/phpMyAdmin/
